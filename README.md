@@ -4,10 +4,10 @@
 I am a versatile and accomplished Principal Engineer and Engineering Leader with over two decades of experience in software design, development, and leadership. Known for my technical expertise and passion for user experience, I thrive on tackling complex challenges while mentoring and empowering globally distributed teams. As a customer-focused innovator, I consistently deliver cutting-edge solutions across diverse platforms, driving impact and excellence.
 
 ## Skills
-- Programming Languages: C++, C#, C, JavaScript, Java, Obj-C, Swift, Python, Perl, SQL.
+- Programming Languages: C++, Rust, C#, C, JavaScript, Java, Obj-C, Swift, Python, Perl, SQL.
 - Platforms: Windows, macOS, iOS, Linux (Ubuntu), Azure.
 - Architecture & Design Patterns: Full-stack development, Microservices, Containerization, Distributed Systems.
-- Software & Tools: STL, React, Vue, Spring, Node.js, database technologies (SQLite, MySQL, PostgreSQL, MS SQL Server, Couchbase), Git, and various package managers.
+- Software & Tools: STL, React, Vue, Spring, Node.js, database technologies (SQLite, MySQL, PostgreSQL, MS SQL Server), Git, and various package managers.
 - Development Methodologies: Scrum, Agile, Waterfall, Kanban.
 
 ## Experience

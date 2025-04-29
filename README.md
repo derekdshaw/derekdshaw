@@ -18,3 +18,12 @@ I am a versatile and accomplished Principal Engineer and Engineering Leader with
 
 I also have additional leadership and development experience at organizations such as Electronic Arts (EA), Adobe, and Claris (Apple).
 
+## Patents
+
+[6233591 Dropping hyperlink onto document object - May 6, 1997](https://patents.justia.com/patent/6233591)
+
+A method of creating document hyperlinks that allow a user to jump to another object or page within the same document or in another document all together—either on a local storage device, or on a remote storage device over a local area network, private wide area network, or the Internet. Hyperlinks that access a document from the Internet are called URL hyperlinks. A URL hyperlink in accordance with the present invention can be created as a new object (e.g., a graphics figure or text) or assigned to an existing object. With a figure-based hyperlink, a user can click anywhere within the figure's bounding box area to invoke a jump to the designated destination. In the preferred embodiment, with a text-based URL hyperlink, a jump will be invoked only when the user clicks on the specific characters that are associated with the URL hyperlink.
+
+[20130036137 Creating and Editing User Search Queries - Aug 5, 2011](https://patents.justia.com/patent/20130036137)
+
+Systems and methods are provided for creating and modifying search queries. A query can be constructed by allowing a user to select from categories, facets, and/or facet values for addition to a query. A user can optionally supplement the categories, facets, and/or facet values with additional search terms entered by the user. The constructed query can then be submitted to a search engine to identify documents that match the search query. The systems and methods can allow a user to construct a search query using a reduced number of user input actions while still providing a user with the flexibility to enter any search terms desired by the user.
